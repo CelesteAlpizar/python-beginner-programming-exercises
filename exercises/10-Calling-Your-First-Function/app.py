@@ -4,3 +4,7 @@ def is_odd(my_number):
 
 def my_main_code():
     # your code here
+    x = is_odd(45345)
+    print(x)
+
+my_main_code()
